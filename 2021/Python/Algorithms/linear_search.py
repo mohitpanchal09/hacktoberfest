@@ -18,3 +18,4 @@ def search(arr, x):
 			return i
 
 	return -1
+
