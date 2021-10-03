@@ -23,7 +23,7 @@ def binarySearch (arr, l, r, x):
             return binarySearch(arr, mid + 1, r, x)
   
     else:
-        # Element is not present in the array
+        
         return -1
   
 # Driver Code
